@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FES GitHub Copilot Course - Practice Repository
 
 Welcome to the FES GitHub Copilot Course practice repository! This workspace contains all the files you'll need to follow along with the course.
@@ -76,3 +77,6 @@ Follow the course lessons and look for these markers to know where to apply what
 - Review Copilot's code before accepting it
 
 Happy coding! 🎉
+=======
+# portfolio-site
+>>>>>>> 2e4a0c50d26655823eca5dc0b4967a9947595344
